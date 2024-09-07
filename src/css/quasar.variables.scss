@@ -12,14 +12,14 @@
 // to match your app's branding.
 // Tip: Use the "Theme Builder" on Quasar's documentation website.
 
-$primary   : #1976D2;
-$secondary : #26A69A;
-$accent    : #9C27B0;
+$primary: #d32f2f; // Red - Health-related
+$secondary: #43a047; // Green - Vitality and wellness
+$accent: #ff7043; // Coral - Energetic and warm contrast
 
-$dark      : #1D1D1D;
-$dark-page : #121212;
+$dark: #1e1e1e; // Near black for dark mode elements
+$dark-page: #121212; // Dark page background
 
-$positive  : #21BA45;
-$negative  : #C10015;
-$info      : #31CCEC;
-$warning   : #F2C037;
+$positive: #388e3c; // Deeper green for success messages
+$negative: #b71c1c; // Darker red for errors
+$info: #0288d1; // Calm blue for information
+$warning: #fbc02d; // Bright yellow for warnings
